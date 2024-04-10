@@ -4,7 +4,7 @@
 
 🚀 Full-Stack Software Engineer | 💻 Technology Advocate | 🌱 Lifelong Learner
 
-I'm passionate about building meaningful and impactful software solutions.
+I'm passionate about building meaningful and impactful software solutions, with a keen interest in leveraging technology to solve real-world problems. With a strong foundation in software development and a knack for problem-solving, I'm dedicated to crafting solutions that truly make a difference.
 
 ## Expertise
 
