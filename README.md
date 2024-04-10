@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hey there! 👋 I'm Nikesh Maharjan
 
-<!--
-**nikeshmhr/nikeshmhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🚀 Full-Stack Software Engineer | 💻 Technology Advocate | 🌱 Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building meaningful and impactful software solutions.
+
+## Expertise
+
+- **Languages**: JavaScript
+- **Frameworks/Libraries**: ExpressJS, NodeJS, NestJS, React, GraphQL
+- **Databases**: MongoDB, Postgres
+
+Currently, I'm focused on mastering NextJS.
+
+## Current Focus
+
+🛠️ Building a sleek and intuitive CV Builder tool as a side project.
+
+## A Peek into My Life
+
+🎸 I'm a guitar player and love jamming to my favorite tunes in my free time.
+
+## Let's Connect!
+
+📫 Email: nikeshmhr@gmail.com  
+🐦 Twitter: [@nikeshmhr](https://twitter.com/nikeshmhr)  
+💼 LinkedIn: [linkedin.com/in/nikeshmhr](https://www.linkedin.com/in/nikeshmhr/)  
+🌐 Website: [nikeshmhr.github.io](https://nikeshmhr.github.io)
+
+## GitHub Stats
+
+![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshmhr&show_icons=true&theme=radical)
