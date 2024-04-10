@@ -21,8 +21,8 @@ Currently, I'm focused on mastering NextJS.
 ## A Peek into My Life
 
 🎮 I enjoy gaming, especially Dota 2 and Valorant, when I'm not coding.  
-🔒 I used to play security Capture The Flag (CTF) games, exploring cybersecurity challenges and solutions.
-🎸 I'm a guitar player and love jamming to my favorite tunes in my free time.
+🔒 I used to play security Capture The Flag (CTF) games, exploring cybersecurity challenges and solutions.  
+🎸 I'm a guitar player and love jamming to my favorite tunes in my free time.  
 
 ## Let's Connect!
 
