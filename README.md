@@ -31,4 +31,4 @@ Currently, I'm focused on mastering NextJS.
 
 ## GitHub Stats
 
-![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshmhr&show_icons=true&theme=radical)
+![Nikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshmhr&show_icons=true&theme=shadow_green)
