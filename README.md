@@ -12,7 +12,7 @@ I'm passionate about building meaningful and impactful software solutions, with 
 - **Frameworks/Libraries**: ExpressJS, NodeJS, NestJS, React, GraphQL
 - **Databases**: MongoDB, Postgres
 
-Currently, I'm focused on mastering NextJS.
+Currently, I'm focused on mastering Go.
 
 ## Current Focus
 
