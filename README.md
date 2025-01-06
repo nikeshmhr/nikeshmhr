@@ -16,7 +16,7 @@ Currently, I'm focused on learning Go.
 
 ## Current Focus
 
-🛠️ Building a sleek and intuitive CV Builder tool as a side project.
+🛠️ Building a CHIP 8 interpreter.
 
 ## A Peek into My Life
 
