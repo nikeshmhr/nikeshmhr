@@ -16,7 +16,7 @@ Currently, I'm focused on learning Go.
 
 ## Current Focus
 
-🛠️ Building a CHIP 8 interpreter.
+🛠️ Building a CHIP 8 interpreter. [Repo](https://github.com/nikeshmhr/chip-8-emulator)
 
 ## A Peek into My Life
 
